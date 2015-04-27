@@ -2,7 +2,7 @@
 
 <center>
 
-<center><h4> A simple site our developer Peter put together. </h4></center>
+A simple site our developer [Peter](https://github.com/dzt) put together.
 
 <img src="screenshots/first.png">
 
