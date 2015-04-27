@@ -4,7 +4,7 @@
 
 A simple site our developer Peter put together.
 
-<img src="imgs/first.png"
+<img src="imgs/first.png">
 
 
 </center>
