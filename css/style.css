@@ -21,6 +21,13 @@ body {
     color: #23a3a6;
 }
 
+#aboutus{
+    margin-bottom: 100px;
+    font-weight:lighter;
+    font-size: 20pt;
+    color: blue;
+}
+
 #tagline {
     font-weight: 300;
     font-size: 15pt;
