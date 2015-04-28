@@ -33,7 +33,7 @@ body {
 }
 
 #paragraph{
-    position: static;
+    position: relative;
     top: 550;
     right: 250;
     font-weight: lighter;
