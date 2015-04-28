@@ -21,31 +21,7 @@ body {
     color: #23a3a6;
 }
 
-#aboutus{
-    position: static;
-    top: 500;
-    right: 200;
-    margin-top:100px;
-    font-weight:lighter;
-    font-size: 20pt;
-    color: #0066ff;
-}
 
-#paragraph{
-    
-    position: static;
-    top: 600;
-    right: 250;
-    font-weight: lighter;
-    color: #ff9900;
-}
-#paragraph2{
-    position: static;
-    top: 600;
-    right: 250;
-    font-weight: lighter;
-    color: #ff9900;
-}
 #tagline {
     font-weight: 300;
     font-size: 15pt;
