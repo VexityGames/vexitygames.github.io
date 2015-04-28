@@ -22,10 +22,10 @@ body {
 }
 
 #aboutus{
-    
-font-weight:lighter;
+    margin-top:100pt;
+    font-weight:lighter;
     font-size: 20pt;
-    color: 0066FF;
+    color: #0066ff;
 }
 
 #tagline {
