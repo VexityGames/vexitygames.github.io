@@ -23,7 +23,7 @@ body {
 
 #aboutus{
     
-    position: relative;
+    position: static;
     top: 200;
     right: 200;
     margin-top:100px;
@@ -34,14 +34,14 @@ body {
 
 #paragraph{
     
-    position: relative;
+    position: static;
     top: 600;
     right: 250;
     font-weight: lighter;
     color: #ff9900;
 }
 #paragraph2{
-    position: fixed;
+    position: static;
     top: 600;
     right: 250;
     font-weight: lighter;
