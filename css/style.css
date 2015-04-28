@@ -33,7 +33,8 @@ body {
 
 #paragraph{
     position:fixed;
-    top: 500;
+    top: 600;
+    right: 450;
     font-weight: lighter;
     color: #ff9900;
 }
