@@ -22,7 +22,9 @@ body {
 }
 
 #aboutus{
-    text-align:center;
+    
+    position: fixed;
+    top: 200;
     margin-top:100px;
     font-weight:lighter;
     font-size: 20pt;
