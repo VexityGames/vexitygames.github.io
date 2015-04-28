@@ -32,15 +32,19 @@ body {
 }
 
 #paragraph{
-    
     position:fixed;
-   
     top: 550;
     right: 250;
     font-weight: lighter;
     color: #ff9900;
 }
-
+#paragraph2{
+    position: fixed;
+    top: 600;
+    right: 250;
+    font-weight: lighter;
+    color: #ff9900;
+}
 #tagline {
     font-weight: 300;
     font-size: 15pt;
