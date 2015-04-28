@@ -32,6 +32,7 @@ body {
 }
 
 #paragraph{
+    
     position:fixed;
     top: 500;
     font-weight: lighter;
